@@ -1,0 +1,6 @@
+<html>
+<head>HTML</head>
+<body>
+ <h2>HTML stands for Hyper text markup Language</h2>
+<body/>
+</html>
